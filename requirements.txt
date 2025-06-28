@@ -1,8 +1,10 @@
+python-dotenv
 python-telegram-bot
 pandas
 openpyxl
-python-dotenv
-camelot-py[cv]
-tabula-py
-ghostscript
-Pillow
+# Library utama untuk ekstraksi struktur tabel
+img2table
+# Backend OCR untuk img2table
+easyocr
+torch
+torchvision
