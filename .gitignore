@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+# Environment variables
+.env
+gcp_credentials.json
+
+# Output files
+/output/
+/temp_images/
